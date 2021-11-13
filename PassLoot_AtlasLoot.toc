@@ -1,0 +1,10 @@
+## Interface: 20502
+## Title: PassLoot_AtlasLoot
+## Notes: AtlasLoot Favourites modules for PassLoot
+## Author: Lurg
+## Version: 1.0
+## Dependencies: PassLoot
+## OptionalDeps: AtlasLootClassic
+
+Locales.lua
+AtlasLoot.lua
